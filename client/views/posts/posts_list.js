@@ -1,3 +1,6 @@
+// postLists manager
+
+
 var postsData = [
 	{
 		title: 'Introducing Telescope',
