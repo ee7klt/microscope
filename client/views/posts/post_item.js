@@ -1,4 +1,4 @@
-//postItem manager
+// postItem manager
 
 Template.postItem.helpers({
 	domain: function() {
