@@ -3,17 +3,17 @@
 
 var postsData = [
 	{
-		title: 'Introducing Telescope',
+		title: 'Hello world',
 		author: 'Sacha Greif',
 		url: 'http://sachagreif.com/introducing-telescope/'
 	},
 	{
-		title: 'Meteor',
+		title: 'Hello world',
 		author: 'Tom Coleman',
 		url: 'http://meteor.com'
 	},
 	{
-		title: 'The Meteor Book',
+		title: 'Hello world',
 		author: 'Tom Coleman',
 		url: 'http://themeteorbook.com'
 	}
